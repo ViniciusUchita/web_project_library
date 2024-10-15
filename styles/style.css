@@ -315,7 +315,7 @@
   list-style-type: none;
   padding: 0;
   gap: 40px;
-  margin: 100px auto 0;
+  margin: 100px 0 0;
 }
 
 .step {
@@ -344,7 +344,7 @@
   box-sizing: border-box;
   background-color: #1f1f1f;
   color: #fff;
-  padding: 30px 60px;
+  padding: 60px 80px;
 }
 
 .footer__columns {
